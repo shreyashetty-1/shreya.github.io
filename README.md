@@ -10,9 +10,7 @@
 
 ## 💼 **Experience**
 ### Software Associate
-- Capgemini, [Date Range]
-- Key Responsibilities:  
-  - UI Developer 
+- Capgemini
 
 ---
 

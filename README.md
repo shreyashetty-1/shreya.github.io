@@ -14,6 +14,17 @@
 
 ---
 
+## 📘 **Training**
+### Data Analyst Program
+- **Institution**:Invact [Daol]  
+- **Duration**: [Aug 2024 - Ongoing]  
+- **Topics Covered**:  
+  - Data Wrangling and Cleaning  
+  - Exploratory Data Analysis  
+  - Visualization with Power BI/Tableau
+
+    ---
+
 ## 🧠 **Skills**
 - **Hard Skills**: Python, SQL, Excel, Data Visualization (Power BI/Tableau),   
 - **Soft Skills**: Problem-solving, Communication  

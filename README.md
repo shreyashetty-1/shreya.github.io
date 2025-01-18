@@ -1,1 +1,1 @@
-
+Currently enrolled in a Data Analytics program at Invact Metaversity, where I am developing skills in Excel, Advanced Excel, Reporting and Analysis, PowerBI, SQL, Python and Tableau. I am passionate about leveraging these tools to derive actionable insights and am aspiring to secure a position in an analyst role.

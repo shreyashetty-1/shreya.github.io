@@ -2,7 +2,7 @@
 title: "[Your Name] - Data Analyst Portfolio"
 description: "A professional portfolio showcasing my skills, projects, certifications, and training as a data analyst."
 baseurl: "" # Leave blank unless hosting under a subpath
-url: "shreya.github.io-portfolio." 
+url: "README.md" 
 
 # Author information
 author:

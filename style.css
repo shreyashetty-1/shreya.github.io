@@ -63,21 +63,14 @@ ul {
 
 ul li {
     background-color: #007bff;
-    color: white;
+    color: cream;
     padding: 10px 20px;
     border-radius: 5px;
 }
 
 
 
-/* Contact Form */
-form input, form textarea {
-    width: 100%;
-    padding: 15px;
-    margin-bottom: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
+/
 
 form button {
     width: 100%;
@@ -94,10 +87,3 @@ form button:hover {
     background-color: #0056b3;
 }
 
-/* Footer */
-footer {
-    background-color: #1e1e1e;
-    color: white;
-    text-align: center;
-    padding: 20px 0;
-}

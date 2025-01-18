@@ -34,8 +34,8 @@
 
 ## 📜 **Certifications**
 - Google Data Analytics Professional Certificate
-- Internshala Advanced Excel Certificate
 
+---
 
 ## 📧 **Contact Me**
 - LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   

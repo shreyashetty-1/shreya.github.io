@@ -5,8 +5,3 @@ url: "README.md"
 theme: theme: jekyll-theme-leap-day
 logo: "/assets/images/logo.png" # Add a logo in the "assets/images" folder
 
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-

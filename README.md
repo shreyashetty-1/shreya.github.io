@@ -10,7 +10,7 @@
 
 ## 💼 **Experience**
 ### Software Associate
-- Capgemini
+- Capgemini 
 
 ---
 
@@ -33,7 +33,8 @@
 ---
 
 ## 📜 **Certifications**
-- Google Data Analytics Professional Certificate  
+- Google Data Analytics Professional Certificate
+- Internshala Advanced Excel Certificate
 
 
 ## 📧 **Contact Me**

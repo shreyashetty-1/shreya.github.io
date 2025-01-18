@@ -1,53 +1,10 @@
-# Site settings
-title: "[Your Name] - Data Analyst Portfolio"
-description: "A professional portfolio showcasing my skills, projects, certifications, and training as a data analyst."
-baseurl: "" # Leave blank unless hosting under a subpath
 url: "README.md" 
 
-# Author information
-author:
-  name: "[Your Name]"
-  email: "[Your Email Address]"
-  linkedin: "[Your LinkedIn Profile URL]"
-  github: "[Your GitHub Profile URL]"
-
-# Social media icons (optional)
-social_links:
-  linkedin: "[Your LinkedIn Profile URL]"
-  github: "[Your GitHub Profile URL]"
 
 # Theme settings
-theme: minima # Replace with the theme of your choice, like "minimal", "jekyll-theme-cayman", etc.
+theme: theme: jekyll-theme-leap-day
 logo: "/assets/images/logo.png" # Add a logo in the "assets/images" folder
 
-# Navigation menu
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Certifications"
-    url: "/certifications/"
-  - title: "Training"
-    url: "/training/"
-  - title: "Contact"
-    url: "/contact/"
-
-# SEO settings
-google_analytics: "UA-XXXXXXXXX-X" # Replace with your Google Analytics tracking ID
-seo:
-  twitter_card: "summary"
-  keywords: "Data Analyst Portfolio, Python, SQL, Tableau, Power BI, Data Analytics"
-  author: "[Your Name]"
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
